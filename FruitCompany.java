@@ -2,6 +2,8 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.*;
 import java.util.Scanner;
+// gives a invoice for 5 items at a time
+
 public class FruitCompany {
 	public static void main(String[] args){
 		String name="";
