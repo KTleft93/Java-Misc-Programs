@@ -1,5 +1,7 @@
 
 import java.util.Stack;
+
+//evaluates addition, subtration, multiplication, and division mathematical expressions in string format
 public class EvaluateExpression {
 
    public static int evaluate(String expression) throws Exception
