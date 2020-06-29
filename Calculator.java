@@ -1,4 +1,6 @@
 import java.util.Scanner;
+
+//A addition, subtraction, division, and multiplication calculator
 public class Calculator {
 
 	public static void main(String[] args) {
