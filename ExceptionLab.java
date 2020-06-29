@@ -1,4 +1,6 @@
 import java.util.*;
+//catches array out of bound exception
+
 public class ExceptionLab {
 
 	public static void main(String[] args) {
